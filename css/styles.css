@@ -183,12 +183,13 @@ margin: 20px;
         }
         
     .test-text{
+        margin-top: 14%;
         font-size: 1.5rem;
         line-height: 1.5;
     }
 
     .carousel-item{
-        padding: 7rem 6rem;
+        padding: 4rem 6rem 2rem;
     }
 
     .new{
@@ -207,5 +208,9 @@ margin: 20px;
 
     .row{
         --bs-gutter-x: 11rem;
+    }
+
+    .for-but{
+        margin-bottom: 9%;
     }
 }
