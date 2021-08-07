@@ -69,6 +69,11 @@ p{
     position: relative;
     z-index: 1;
 }
+
+.row{
+    --bs-gutter-x: 0;
+}
+
 .g-icon{
     width: 20%;
 }
