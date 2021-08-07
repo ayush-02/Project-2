@@ -169,4 +169,29 @@ margin: 20px;
         position: relative;
         z-index: 1;
     }
+
+    #testimonials{
+        color: #fff;
+        text-align: center;
+        background-color: #ef8172;
+    }
+
+    .testimonials-img{
+        width: 25%;
+        border-radius: 100%;
+        margin: 20px;
+        }
+        
+    .test-text{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+
+    .carousel-item{
+        padding: 7rem 8rem;
+    }
+
+    .new{
+        font-size: 2rem;
+    }
 }
